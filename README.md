@@ -13,6 +13,7 @@
 * [Spectacle](https://www.spectacleapp.com/) - re-arrange windows with simple key combos
 * [Keybase](https://keybase.io) - an encrypted chat client
 * Microsoft Remote Desktop 10 (get it from the app store*) - RDP into Windows servers.
+* [Remote Desktop Manager](https://remotedesktopmanager.com/) ([free](https://remotedesktopmanager.com/home/downloadfree)) - Powerful RDP client with advanced functionality like nested connection groups with inheritable settings and credentials.
 * [BetterTouchTool](https://folivora.ai/) ([configuration](/BetterTouchTool.md))- Add powerful scripting and hotkey functionality to mouse gestures, touch bars, touchpads and more.
 * [MacPass](https://macpassapp.org/) ([configuration](/MacPass.md)) - KeePass-compatible password manager
 
