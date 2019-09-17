@@ -19,7 +19,7 @@
 There are multiple choices, here are some:
 
 * Microsoft Remote Desktop 10 (get it from the app store*) - RDP into Windows servers.
-* [Remote Desktop Manager](https://remotedesktopmanager.com/) ([free](https://remotedesktopmanager.com/home/downloadfree)) - Powerful RDP client with advanced functionality like nested connection groups with inheritable settings and credentials.
+* [Remote Desktop Manager](https://remotedesktopmanager.com/home/downloadfree) - Powerful RDP client with advanced functionality like nested connection groups with inheritable settings and credentials.
 
 ### Editors
 What editor you use is a matter of fierce preference,
