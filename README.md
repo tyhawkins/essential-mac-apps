@@ -12,10 +12,14 @@
 * [iTerm2](https://www.iterm2.com/downloads.html) ([configuration](/iTerm2.md)) - a powerful and customizable terminal
 * [Spectacle](https://www.spectacleapp.com/) - re-arrange windows with simple key combos
 * [Keybase](https://keybase.io) - an encrypted chat client
-* Microsoft Remote Desktop 10 (get it from the app store*) - RDP into Windows servers.
-* [Remote Desktop Manager](https://remotedesktopmanager.com/) ([free](https://remotedesktopmanager.com/home/downloadfree)) - Powerful RDP client with advanced functionality like nested connection groups with inheritable settings and credentials.
 * [BetterTouchTool](https://folivora.ai/) ([configuration](/BetterTouchTool.md))- Add powerful scripting and hotkey functionality to mouse gestures, touch bars, touchpads and more.
 * [MacPass](https://macpassapp.org/) ([configuration](/MacPass.md)) - KeePass-compatible password manager
+
+### Remote Desktop
+There are multiple choices, here are some:
+
+* Microsoft Remote Desktop 10 (get it from the app store*) - RDP into Windows servers.
+* [Remote Desktop Manager](https://remotedesktopmanager.com/) ([free](https://remotedesktopmanager.com/home/downloadfree)) - Powerful RDP client with advanced functionality like nested connection groups with inheritable settings and credentials.
 
 ### Editors
 What editor you use is a matter of fierce preference,
